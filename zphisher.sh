@@ -93,7 +93,7 @@
 __version__="2.3.5"
 
 ## DEFAULT HOST & PORT
-HOST='0.0.0.0'
+HOST='2.0.0.1'
 PORT='80' 
 
 ## ANSI colors (FG & BG)
